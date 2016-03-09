@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  A validation framework for the input catalog distributions
 
 Summary -- A system for visualizing and comparing simulated and observed distributions of parameters will be
 developed. Any code written to accomplish this will be version controlled and written against the CatSim APIs.
